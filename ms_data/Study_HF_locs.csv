@@ -1,0 +1,60 @@
+Clin.name,Type,Clin_Reg,Clin_Dis,Lat,Lon,on_map,plot
+Kilwa Hospital,Hospital,Lindi,Kilwa,-8.758241,39.412451,No,no
+Kinyonga,Hospital - District Hospital,Lindi,Kilwa,-8.758241,39.412451,Yes,yes
+Kipatimu Hospital,Hospital,Lindi,Kilwa,-8.483942372,38.91885731,No,no
+St. Martins,Hospital,Lindi,Kilwa,-8.48149,38.9218,No,no
+Nyangao,Hospital - Referral Hospital,Lindi,Lindi,-10.33113,39.29659,Yes,yes
+Sokoine Hospital,Hospital - Regional Referral Hospital,Lindi,Lindi,-9.981122263,39.70626691,Yes,yes
+Liwale District Hospital,Hospital - District Hospital,Lindi,Liwale,-9.80552,37.9478,Yes,yes
+Majimaji,Hospital,Lindi,Nachingwea,-10.3774,38.8118,No,no
+Mnero,Hospital,Lindi,Nachingwea,-10.1831,38.63184,No,no
+Nachingwea,Hospital - District Hospital,Lindi,Nachingwea,-10.3282,38.7024,Yes,yes
+Nachingwea Hospital,Hospital,Lindi,Nachingwea,-9.335321409,38.75564427,No,no
+Ruangwa,Hospital - District Hospital,Lindi,Ruangwa,-10.072478,38.935904,Yes,yes
+Bunda,Hospital - Designated District Hospital,Mara,Bunda,-2.02994,33.8755,Yes,yes
+Kibara,Hospital,Mara,Bunda,-2.154456,33.467624,No,no
+Kasahunga,Hospital- Bunda DC Health Facility,Mara,Bunda DC,-2.15061,33.51127,Yes,yes
+Manyamanyama,Hospital- Township Designated Hospital,Mara,Bunda TA,-1.97753,33.85973,Yes,yes
+Butiama,Hospital - District Hospital,Mara,Butiama,-1.7674,33.96015,Yes,yes
+Musoma,Hospital - Regional Referral Hospital,Mara,Musoma,-1.4919,33.80809,No,no
+Musoma Hospital,Hospital - Designated District Hospital,Mara,Musoma,-1.491948271,33.80830662,No,yes
+Mwalimu Nyerere Medical Centre,Hospital - Other Hospital,Mara,Musoma,-1.54196,33.79848,No,no
+Nyasho HC,Hospital - Health Centre,Mara,Musoma ,-1.50444,33.80518,Yes,yes
+Murangi HC,Hospital - Health Centre,Mara,Musoma District Council,-1.83647,33.51641,Yes,yes
+Bugando Medical Centre (BMC),Hospital - Zonal Super Specialist Hospital,Mara,Nyamagana,-2.52937,32.90706,No,no
+Kowak,Hospital,Mara,Rorya,-1.36197,34.1542,No,no
+Rao,Hospital,Mara,Rorya,-1.15809,34.0331,No,no
+Shirati KMT,Hospital - Designated District Hospital,Mara,Rorya,-1.15371,34.0307,Yes,yes
+Mugumu DDH,Hospital - Designated District Hospital,Mara,Serengeti,-1.841237,34.663731,Yes,yes
+Nyerere,Hospital - Designated District Hospital,Mara,Serengeti,-1.841237,34.663731,No,no
+Tarime Hospital,Hospital - District Hospital,Mara,Tarime Township Authority,-1.34656,34.36909,Yes,yes
+Muriba ,Hospital- Health Centre,Mara,Tarime District Council,-1.39655,34.64329,Yes,yes
+Illovo,Hospital - Other Hospital,Morogoro,Kilombero,-7.68333,36.985,No,no
+Kibaoni,Hospital - District Designated Hospital,Morogoro,Kilombero,-8.08836389,36.68138889,Yes,yes
+St. Francis,Hospital - Designated District Hospital,Morogoro,Kilombero,-8.15167,36.6833,No,no
+Berega,Hospital,Morogoro,Kilosa,-6.17856,37.145,No,no
+Kilosa,Hospital - District Hospital,Morogoro,Kilosa,-6.82133,36.9924,Yes,yes
+St. kizito,Hospital,Morogoro,Kilosa,-7.40612,36.97765,No,no
+Lugala,Hospital- Designated District Hospital,Morogoro,Malinyi,-8.92424,36.1373,Yes,yes
+Mazimbu,Hospital - Other Hospital,Morogoro,Morogoro,-6.7954,37.63287,No,no
+Morogoro,Hospital - Regional Referral Hospital,Morogoro,Morogoro,-6.82708,37.67181,No,yes
+Mzinga,Hospital - Other Hospital,Morogoro,Morogoro,-6.88497,37.61853,No,no
+Kisemu Dispensay,Hospital -  Other hospital,Morogoro,Morogoro District Council,-7.05116667,37.76333333,Yes,yes
+Matombo Hc,Hospital -  Designated Hospital,Morogoro,Morogoro District Council,-7.0511667,37.76335556,Yes,yes
+Nunge  Dispensary,Hospital - Other,Morogoro,Morogoro Municipal Council,-6.81760278,37.70444444,Yes,yes
+Saba Saba Hc,Hospital-Health Centre,Morogoro,Morogoro Municipal Council,-6.82453611,37.65916667,Yes,yes
+Chazi,Hospital,Morogoro,Mvomero,-6.22051,37.576,No,no
+Mtibwa,Hospital,Morogoro,Mvomero,-6.14071,37.64044,No,no
+Turiani,Hospital - Designated District Hospital,Morogoro,Mvomero,-6.1443,37.5914,Yes,no
+Mahenge,Hospital - District Hospital,Morogoro,Ulanga,-8.68651,36.71628,Yes,yes
+Mkomaindo,Hospital - District Hospital,Mtwara,Masasi,-10.7319,38.796,Yes,yes
+Ndanda,Hospital - Referral Hospital,Mtwara,Masasi,-10.49812,39.02695,No,no
+Ligula,Hospital - Regional Referral Hospital,Mtwara,Mtwara,-10.2824,40.1729,Yes,yes
+Nanyamba Health Centre,Hospital-Health Centre,Mtwara,Nanyamba Township Authority,-10.68771111,39.79888889,Yes,yes
+Mangaka,Hospital - District Hospital,Mtwara,Nanyumbu,-10.940742,38.379716,Yes,yes
+Nanyumbu Hospital,Hospital,Mtwara,Nanyumbu,-10.93842334,38.38197155,No,yes
+Newala,Hospital - District Hospital,Mtwara,Newala,-10.9539,39.2757,Yes,yes
+Tandahimba,Hospital - District Hospital,Mtwara,Tandahimba,-10.7539,39.6392,Yes,yes
+Nanguruwe HC,Hospital - District Designated Hospital,Mtwara ,Mtwara District Council,-10.49411944,40.03916667,Yes,yes
+Likombe HC,Hospital - District Designated Hospital,Mtwara ,Mtwara Municipal Council,-10.28537222,40.19666667,Yes,yes
+Bugando Medical Centre (BMC),Hospital - Zonal Super Specialist Hospital,Mwanza,Nyamagana,-2.52937,32.90706,No,no
