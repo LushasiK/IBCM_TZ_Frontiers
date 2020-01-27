@@ -200,7 +200,7 @@ for(i in 1:4){
 message("--- fig 3 caption ---")
 message("n human deaths due to rabies: ", length(which(HF$VISIT_STATUS=="positive_clinical_signs")))
 message("n human deaths due to rabies post-ibcm: ", length(which(post_ibcm_HF$VISIT_STATUS=="positive_clinical_signs")))
-message("n RDT confirmed cases: ", length(which(VET$SAMPLE_WAS_COLLECTED_LATERAL_FLOW_TEST_OUTCOME=="positive")))
+message("n RDT confirmed cases: ", length(which(post_ibcm_VET$SAMPLE_WAS_COLLECTED_LATERAL_FLOW_TEST_OUTCOME=="positive")))
 
 #----- Summary of biting animals
 message("Number of presentations post-IBCM: ", nrow(post_ibcm_HF))
